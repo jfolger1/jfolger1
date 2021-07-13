@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jfolger1
+- 👀 I’m interested in lots of things!  Skiing, swimming, paddleboarding.  Being a great Product Manager, working for an amazing company. 
+- 🌱 I’m currently learning EVERYDAY!  I am the Product Manager for a pretty darn technical product that is also really, super duper complex.  So everyday something new - Tekton, Google Cloud Build, Jenkins, Springboot, Angular, Flask.  It's pretty crazy, but never a dull moment. 
